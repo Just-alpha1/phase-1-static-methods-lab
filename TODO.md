@@ -1,0 +1,4 @@
+- [x] Add static capitalize method to Formatter class
+- [x] Add static sanitize method to Formatter class
+- [x] Add static titleize method to Formatter class
+- [ ] Run tests to verify implementation
